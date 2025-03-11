@@ -12,3 +12,8 @@ tawan baohlopet 643020501-6 SIDS
 #objectiveproject
 - สร้าง webapp  ที่สามารถตอบคำถาม นอกเหนือกจาก intent ที่กำหนด โดยวิธีการเชื่อมต่อกับ llm :white_check_mark:
 - ติดตั้งใช้งาน webapp บน server :white_check_mark:
+
+*** สิ่งที่ต้องนำเสนอ: ***
+- web app
+- web page
+- Git hub ตัวเอง
