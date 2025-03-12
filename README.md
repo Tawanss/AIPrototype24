@@ -22,5 +22,5 @@ tawan baohlopet 643020501-6 SIDS
 # 🏠 Homework
 | Homework | Description | Files |
 |:--------:|:-----------|:------|
-| HW1 | คำนวณจำนวนวันตั้งแต่วันเกิดจนถึงวันปัจจุบัน | [`myfirstpy`](https://github.com/Pattaratron/AIPrototype24/blob/main/myfirstpy.py)  |
-| HW2 | ส่งข้อความด้วย Web Service | [`firstflask.py`](https://github.com/Pattaratron/AIPrototype24/blob/main/firstflask.py) & [`myfirstpy`](https://github.com/Pattaratron/AIPrototype24/blob/main/call_web_service.py) |
+| HW1 | คำนวณจำนวนวันตั้งแต่วันเกิดจนถึงวันปัจจุบัน | [`myfirstpy`](https://github.com/Tawanss/AIPrototype24/blob/main/myfirstpy.py)  |
+| HW2 | ส่งข้อความด้วย Web Service | [`firstflask.py`](https://github.com/Tawanss/AIPrototype24/blob/main/firstflask.py) & [`myfirstpy`](https://github.com/Pattaratron/AIPrototype24/blob/main/call_web_sevice.py ) |
