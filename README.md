@@ -17,7 +17,7 @@ tawan baohlopet 643020501-6 SIDS
 *** สิ่งที่ต้องนำเสนอ: ***
 -
 - web app
-- web page
+- web page ---> https://tawanss.github.io/
 - Git hub ตัวเอง
 
 # 🏠 Homework
