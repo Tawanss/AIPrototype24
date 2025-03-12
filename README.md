@@ -47,13 +47,13 @@ $cd ../.. --> ออก 2 ขั้น
 
 $man {command}--> ใช้ดูคำสั่งต่างๆ (เป็นตัวช่วยเหลือว่าใช้อะไรได้บ้างในคำสั่งนี้)
 
-# 🗓️ Calender
+# สรุป lecture
 |  CLASS    |      DESCRIPTION      |             LECTURE             | 
 |:-------:|:---------------------:|:-------------------------------:|
-|   1     | Ubuntu Command Line   | [`Lecture Class I.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20I.md)  |
-|   2   | Virtual Machines      | [`Lecture Class II.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20II.md) |
-|   3     | CloudVM               | [`Lecture Class III.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20III.md)|
-|   4      | Web page              | [`Lecture Class IV.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20IV.md) |
-|   5       | Environment Conda     | [`Lecture Class V.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20V.md)  |
-|   6     | Web Service           | [`Lecture Class VI.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20VI.md) |
-|   7     | Deep Learning         | [`Lecture Class VII.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20VII.pdf) |
+|   1     | Ubuntu Command Line   | [`Lecture Class 1.md`](https://github.com/Tawanss/AIPrototype24/blob/main/lecture1.md)  |
+|   2   | Virtual Machines      | [`Lecture Class 2.md`](https://github.com/Tawanss/AIPrototype24/blob/main/lecture2.md) |
+|   3     | CloudVM               | [`Lecture Class 3.md`](https://github.com/Tawanss/AIPrototype24/blob/main/lecture3.md)|
+|   4      | Web page              | [`Lecture Class 4.md`](https://github.com/Tawanss/AIPrototype24/blob/main/lecture4.md) |
+|   5       | Environment Conda     | [`Lecture Class 5.md`](https://github.com/Tawanss/AIPrototype24/blob/main/lecture5.md)  |
+|   6     | Web Service           | [`Lecture Class 6.md`](https://github.com/Tawanss/AIPrototype24/blob/main/lecture6.md) |
+|   7     | Deep Learning         | [`Lecture Class 7.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20VII.pdf) |
